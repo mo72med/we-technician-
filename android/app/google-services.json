@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081099979082",
+    "project_id": "we-technician",
+    "storage_bucket": "we-technician.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081099979082:android:4c71526df397d75ef519b3",
+        "android_client_info": {
+          "package_name": "com.example.we_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPB5J3aO_O5wrMdjR15zdUyLI25EqI9uM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
